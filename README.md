@@ -23,3 +23,5 @@
     
     
   </div>
+  
+![Snake animation](https://github.com/marcoswoc/marcoswoc/blob/output/github-contribution-grid-snake.svg)
