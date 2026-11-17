@@ -1,0 +1,39 @@
+user: marcoswoc
+
+# Os cards, na ordem em que aparecem no README.
+show: [about, summary, languages, weekly]
+
+count:
+  private: true    # conta o trabalho em repositórios privados
+  orgs: true       # conta o trabalho nas organizações de que você participa
+
+look:
+  style: classic   # as fontes, cores e ícones do próprio GitHub
+  color: github    # destaque no azul e nos verdes do GitHub
+  background: none # fundo transparente: segue o tema claro/escuro de quem vê
+  border: false
+
+cards:
+  about:
+    title: About
+    headline: "*.NET*, *Azure* e IA aplicada"
+    lines:
+      - "Engenheiro de software sênior há 8 anos"
+      - "Levo IA generativa ao ambiente de produção"
+      - "Tech lead de um time de 8 pessoas"
+    facts:
+      Stack: "C#, .NET, Azure, Elasticsearch"
+      Foco: "RAG, LLM e plataforma de engenharia"
+
+  summary:
+    title: null
+    ring: percent  # o anel mostra sua fatia de dias ativos
+
+  languages:
+    title: Linguagens mais usadas
+    count: 6
+    hide: [HTML, CSS]   # ruído dos repositórios de exemplo; tire daqui para voltarem
+    other: true
+
+  weekly:
+    title: Ritmo semanal
